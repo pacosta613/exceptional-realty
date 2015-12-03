@@ -7,4 +7,4 @@ This is an example site for the Intro to Front-end Web Develoopment Course at Th
 
 # Contact
 
-email: pedro.acosta613@gmail.com
+email: pedro.acosta613@gmail.com# new
